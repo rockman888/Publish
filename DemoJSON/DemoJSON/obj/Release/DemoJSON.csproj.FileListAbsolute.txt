@@ -1,0 +1,10 @@
+D:\GitHub\MyStore\DemoJSON\DemoJSON\bin\Release\DemoJSON.exe.config
+D:\GitHub\MyStore\DemoJSON\DemoJSON\bin\Release\DemoJSON.exe
+D:\GitHub\MyStore\DemoJSON\DemoJSON\bin\Release\DemoJSON.pdb
+D:\GitHub\MyStore\DemoJSON\DemoJSON\bin\Release\Newtonsoft.Json.dll
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.frmMain.resources
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.Properties.Resources.resources
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.csproj.GenerateResource.Cache
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.exe
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.pdb
+D:\GitHub\MyStore\DemoJSON\DemoJSON\obj\Release\DemoJSON.csprojResolveAssemblyReference.cache
