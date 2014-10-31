@@ -1,0 +1,40 @@
+﻿get_items: Lấy 1 item tương ứng với item id và item name truyền vào
+
+Input:
+URL : http://gim.tool.vng.vn/mda/api/get_items
+Params (required)
+	id_ingame:
+	name
+	
+Output: (json type)
+	True
+	array(
+		0	=>	1,
+		1	=>	array(
+			'result' =>	array(
+				'ITEM_ID'	=>	'CNSK',
+				'NAME'		=>	'Cẩm nang sự kiện',
+				'PRODUCT_CODE'	=>	'FS',
+				'ID_INGAME'		=>	'6,1,5572',
+				'TYPE'			=>	1,
+				'START_TIME'	=>	null,
+				'END_TIME'		=> null
+			)
+		)
+	)
+	
+	False:
+	array(
+		0	=>	0,
+		1	=>	array(
+			'error' =>	'Reason'
+			)
+		)
+	)
+	
+
+
+	Sample : 
+http://gim.tool.vng.vn/mda/api/get_items?id_ingame=6,1,5572&name=C%E1%BA%A9m%20nang%20s%E1%BB%B1%20ki%E1%BB%87n
+
+1758c61aaeafb9f16bd376e3b33eaad76202bc04
